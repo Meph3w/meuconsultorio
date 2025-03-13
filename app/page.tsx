@@ -268,7 +268,7 @@ export default function Home() {
               </Button>
             </Link>
             <Link href="/blog" className="w-full sm:w-auto">
-              <Button size="lg" variant="outline" className="text-white border-white hover:bg-blue-700 w-full">
+              <Button size="lg" variant="outline" className="text-blue-700 border-blue-700 hover:bg-blue-700 hover:text-white w-full">
                 Explorar o blog
               </Button>
             </Link>
